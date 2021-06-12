@@ -1,0 +1,135 @@
+*{
+    margin-bottom: 0;
+    padding:0;
+}
+
+body{
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin:50px auto 0 auto;
+    font-family: 'Indie Flower', cursive;
+    font-size: 400%;
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5rem;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+a{
+    color: #0c5b5e;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+    font-weight:bold;
+    margin: 10px 20px;
+    text-decoration: none;
+    transition-duration: 0.2s;
+}
+a:hover{
+    color: #eaf6f6;
+}
+hr{ margin: 2px auto 2px auto;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 7px;
+    width: 10%;
+    border-color:#afc0c0;
+    
+}
+.top-cont{
+    /*background-color: #e7faf6;*/
+    background-image: linear-gradient(#defdf6, #affaea);
+    position: relative;
+    padding-top: 75px;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 25px;
+}
+.bot-cloud{
+    position:absolute;
+    left: 300px;
+    bottom: 300px;
+}.monke{
+    margin-top: 10px;
+    width: 150px;
+    border-radius: 100%;
+}
+.computer{
+    width: 200px;
+    border-radius: 100%;
+    float: left;
+    margin-right: 20px;
+}
+.chillies{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    float: right;
+    margin-left: 20px;
+}
+.subhead{
+    font-weight:bold;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 50px auto;
+    text-align: left;
+    line-height: 2;
+}
+.BUTTON {
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    padding: 10px;
+    background-color: #01C1D5;
+    -webkit-box-shadow: 0 1px 7px 0 #000000;
+    -moz-box-shadow: 0 1px 7px 0 #000000;
+    box-shadow: 0 1px 7px 0 #000000;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    transition-duration: 0.5s;
+ }
+ 
+ .BUTTON:hover {
+    background: #3AD3D3;
+    border: solid #00F3FF 0;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    text-decoration: none;
+ }
+ .bot-cont{
+     padding: 20px;
+     margin-top: 20px;
+     margin-bottom: 0;
+    background-color: #66BFBF;
+ }
+ .copyright{
+    color: #eaf6f6;
+ }
+ .profile{
+     padding: 5px;
+     margin-bottom: 20px;
+ }
+ .contact-me{
+     line-height: 2;
+ }
