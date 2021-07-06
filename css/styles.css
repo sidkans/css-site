@@ -68,7 +68,7 @@ hr{ margin: 2px auto 2px auto;
     border-radius: 100%;
 }
 .computer{
-    width: 220px;
+    width: 200px;
     border-radius: 100%;
     float: left;
     margin-right: 20px;
@@ -87,7 +87,7 @@ hr{ margin: 2px auto 2px auto;
     width: 50%;
     margin: 100px auto 50px auto;
     text-align: left;
-    line-height: 2;
+    line-height: 1.5;
 }
 .BUTTON {
     -webkit-border-radius: 10px;
